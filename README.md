@@ -1,5 +1,3 @@
-Here is a **clean GitHub README summary** based on your code and project. It is concise, structured, and suitable for a project repository.
-
 ---
 
 # Text Classification with LoRA (RoBERTa)
@@ -131,10 +129,3 @@ EducationalInstitution
 * **Matplotlib**
 
 ---
-
-If you'd like, I can also help you add:
-
-* **a proper GitHub README structure (badges, installation, usage)**
-* **diagrams of the LoRA architecture**
-* **screenshots of the training loss graph**
-* **a much stronger project description for recruiters** (very useful for internships).
